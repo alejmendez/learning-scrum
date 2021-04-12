@@ -1,0 +1,128 @@
+@import '/variables-custom';
+@import '~bootstrap';
+@import '~bootstrap-vue';
+
+@media only screen and (max-width: 600px) {
+    .carousel-caption{
+        h3{
+            font-size: 2rem !important;
+        }
+        p{
+            font-size: 1rem !important;
+            margin-bottom: 10px !important;
+        }
+    }
+}
+@media only screen and (min-width: 601px) and (max-width: 900px){
+    .carousel-caption{
+        h3{
+            font-size: 2.4rem !important;
+        }
+        p{
+            font-size: 1.5rem !important;
+            margin-bottom: 60px !important;
+        }
+    }
+}
+
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    h3{
+        font-size: 2.1rem;
+    }
+    .line{
+        height: 3px;
+        width: 70px;
+        margin-left: -35px;
+        margin-top: -1.5px;
+        margin: auto;
+    }
+    .carousel-caption{
+        h3{
+            font-size: 4rem;
+        }
+        p{
+            font-size: 2rem;
+            margin-bottom: 150px;
+        }
+    }
+    
+    .logo{
+        height: 60px;
+        padding: 20px 0 0 20px;
+    }
+    .section{
+        padding: 40px 0 30px 0;
+        &.ligth{
+            background: #ededed;
+        }
+        h3{
+            text-align: center;
+            line-height: 2;
+        }
+        .bg-principal{
+            background-color: #fcb700;
+        }
+    }
+    .a{
+        :hover{
+          margin-top: -10px;  
+        }
+    }
+    #filosofia{
+        background-image: url(../assets/fondo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        .section{
+            background-color: black;
+            opacity: 0.84;
+            h2{
+                font-size: 3rem;
+            }
+
+        }
+        
+    }
+}
+#nav {
+    a {
+        font-weight: bold;
+        color: #2c3e50;
+        text-decoration: none;
+        &:hover{
+            color: $primary;
+        }
+
+        &.router-link-exact-active {
+            color: #fcb700;
+        }
+    }
+}
+.zoom{
+    width: 600px;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 30%, 0);
+    -ms-transform: translate3d(0, 30%, 0);
+    transform: translate3d(0, 30%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+  animation-timing-function: ease-out;
+}
