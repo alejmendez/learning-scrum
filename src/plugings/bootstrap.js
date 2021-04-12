@@ -15,7 +15,8 @@ import {
     FormPlugin,
     FormGroupPlugin,
     FormTextareaPlugin,
-    FormInputPlugin
+    FormInputPlugin,
+    AlertPlugin
 } from 'bootstrap-vue'
 
 Vue.use(CardPlugin)
@@ -26,6 +27,7 @@ Vue.use(FormPlugin)
 Vue.use(FormGroupPlugin)
 Vue.use(FormTextareaPlugin)
 Vue.use(FormInputPlugin)
+Vue.use(AlertPlugin)
 
 Vue.component('b-carousel', BCarousel)
 Vue.component('b-carousel-slide', BCarouselSlide)
