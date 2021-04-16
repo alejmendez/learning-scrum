@@ -9,9 +9,14 @@
           width="160"
         />
       </b-navbar-brand>
+
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
       <b-collapse id="nav-collapse" is-nav>
+        <b-navbar-nav>
+          <b-navbar-item class="acreditada"> Institución avalada por la <br>
+          Asociación Iberoamericana de Scrum</b-navbar-item>
+        </b-navbar-nav>
         <b-navbar-nav class="ml-auto">
           <b-navbar-nav>
             <b-nav-item href="#inicio">Inicio</b-nav-item>
@@ -24,6 +29,13 @@
     </b-navbar>
   </div>
 </template>
+<style>
+.acreditada{
+  line-height: 1;
+  border-left: 1px solid #e6e6e6;
+  padding-left: 0.9rem;
+}
+</style>
 
 <script>
 export default {

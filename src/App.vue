@@ -4,6 +4,7 @@
     <Carrusel />
     <Cursos />
     <Filosofia />
+    <Webinar/>
     <Porque />
     <Team />
     <Aibes />
@@ -22,6 +23,7 @@ import Team from "@/components/team.vue";
 import Aibes from "./components/aibes.vue";
 import FooterPage from "@/components/FooterPage.vue";
 import Formulario from './components/formulario.vue';
+import Webinar from './components/webinar.vue';
 
 const WOW = require("wow.js/dist/wow.js");
 let wow = new WOW();
@@ -37,7 +39,8 @@ export default {
     Team,
     Aibes,
     FooterPage,
-    Formulario
+    Formulario,
+    Webinar
   },
   mounted() {
     wow.init();

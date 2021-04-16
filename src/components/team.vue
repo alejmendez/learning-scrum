@@ -16,9 +16,9 @@
                 alt="Antonio Betancourt"
               ></b-img>
 
-              <h3>Antonio Betancourt</h3>
-              <h5>Trainer Agile</h5>
-              Ingeniero en Sistema, con amplia experiencia en educación universitaria, con Cerificación en Scrum Master, Agile Coach, Disciplined Agile instructor.
+              <h4 class="mt-3">Antonio Betancourt</h4>
+              <h5>Fundador | Trainer </h5>
+              M.Sc Gerencia informática, ingeniero de sistemas, profesor universitario, agile coach, scrum master, disciplined agile instructor 
             </b-card-text>
           </b-card>
           </b-col>
@@ -32,8 +32,8 @@
                 alt="María Campora"
               ></b-img>
 
-              <h3>María Campora</h3>
-              <h5>Diseñadora UX/UI</h5>
+              <h4 class="mt-3">María Campora</h4>
+              <h5>Fundador | Diseñador UX/UI</h5>
               Diseñador UX con experiencia en organizaciones con cultura ágile, diseño de productos, user interfaz, programador frontend. 
             </b-card-text>
           </b-card>
