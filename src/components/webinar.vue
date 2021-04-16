@@ -7,8 +7,8 @@
       >
         <h3>Nuestros webinar</h3>
         <div class="line bg-primary"></div>
-        <b-row class="my-5">
-          <b-col class="mb-3">
+        <b-row cols="1" cols-md="2"  class="my-5">
+          <b-col>
             <b-card class="mb-3">
             <b-card-text>
               <div class="text-center">
@@ -30,7 +30,7 @@
             </b-card-text>
           </b-card>
           </b-col>
-          <b-col class="mb-3">
+          <b-col>
             <b-card class="mb-3">
             <b-card-text>
               <div class="text-center">

@@ -5,8 +5,9 @@
         <h3>Cursos de Scrum, agilidad e imnovación</h3>
         <div class="line bg-primary mb-5"></div>
 
-        <b-card-group columns>
-          <b-card class="mb-3">
+        <b-row cols="1" cols-md="2" cols-lg="3">
+          <b-col>
+            <b-card class="mb-3">
             <b-card-text>
               <div class="text-center">
                 <b-img
@@ -35,8 +36,10 @@
               <b-button variant= "primary">Inscríbete aquí</b-button>
             </b-card-text>
           </b-card>
+          </b-col>
 
-          <b-card class="mb-3">
+          <b-col>
+            <b-card class="mb-3">
             <b-card-text>
               <div class="text-center">
                 <b-img
@@ -66,8 +69,10 @@
               <b-button variant= "primary">Inscríbete aquí</b-button>
             </b-card-text>
           </b-card>
+          </b-col>
 
-          <b-card class="mb-3">
+          <b-col>
+            <b-card class="mb-3">
             <b-card-text>
               <div class="text-center">
                 <b-img
@@ -96,7 +101,8 @@
               <b-button variant= "primary">Inscríbete aquí</b-button>
             </b-card-text>
           </b-card>
-        </b-card-group>
+          </b-col>
+        </b-row>
       </div>
     </div>
   </div>

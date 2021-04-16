@@ -5,9 +5,9 @@
         <h3>Nuestro equipo directivo</h3>
         <div class="line bg-primary mb-5"></div>
 
-        <b-row align-h="around" class="mb-4">
-          <b-col cols="4">
-            <b-card>
+        <b-row cols="1" cols-md="2" align-h="around" class="mb-4">
+          <b-col>
+            <b-card class="mb-3">
             <b-card-text class="text-center">
               <b-img
                 src="../assets/team/betancourt.jpg"
@@ -22,8 +22,8 @@
             </b-card-text>
           </b-card>
           </b-col>
-          <b-col cols="4">
-            <b-card>
+          <b-col>
+            <b-card class="mb-3">
             <b-card-text class="text-center">
               <b-img
                 src="../assets/team/campora.jpg"

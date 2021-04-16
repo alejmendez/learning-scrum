@@ -5,8 +5,8 @@
         class="container fadeInUp wow"
         data-wow-duration="0.5s"
       >
-        <div class="row">
-          <div class="col">
+          <b-row cols="1" cols-md="2">
+          <b-col class="mb-3">
             <img class="logo-f"
             alt="LearningScrum" 
             src="../assets/logo-ls-w.svg"
@@ -15,10 +15,10 @@
               Ser Ágiles, Being Agile, trata sobre “quiénes somos” y sobre seguir unos principios y valores con plena consciencia. Tiene que ver con la cultura organizacional y la mentalidad del equipo, y con cómo nos percibimos, cómo nos relacionamos, qué valoramos y cómo nos comportamos.
 
             </p>
-          </div>
+          </b-col>        
           
           
-          <div class="col text-right">
+          <b-col class="text-right mb-3">
             <h5>Contáctanos:</h5>
             <a href="tel:+56920904970">+56 9 2090 4970</a> <br><br>
             <a href="mailto:etd.spa@gmail.com">
@@ -34,7 +34,7 @@
               rel="noopener noreferrer">
                 <img class="rounded shadow"
                 alt="LearningScrum" 
-                src="../assets/rrss/il.png"
+                src="../assets/rrss/linkedin.svg"
                 width="30" />
               </a>
 
@@ -44,7 +44,7 @@
               rel="noopener noreferrer">
                 <img class="rounded shadow"
                 alt="LearningScrum" 
-                src="../assets/rrss/if.png"
+                src="../assets/rrss/facebook.svg"
                 width="30" />
               </a>
 
@@ -54,7 +54,7 @@
               rel="noopener noreferrer">
                 <img class="rounded shadow"
                 alt="LearningScrum" 
-                src="../assets/rrss/ii.png"
+                src="../assets/rrss/instagram.svg"
                 width="30" />
               </a>
 
@@ -64,7 +64,7 @@
               rel="noopener noreferrer">
                 <img class="rounded shadow"
                 alt="LearningScrum" 
-                src="../assets/rrss/it.png"
+                src="../assets/rrss/twitter.svg"
                 width="30" />
               </a>
 
@@ -74,17 +74,17 @@
               rel="noopener noreferrer">
                 <img class="rounded shadow"
                 alt="LearningScrum" 
-                src="../assets/rrss/iy.png"
+                src="../assets/rrss/youtube.svg"
                 width="30" />
               </a>
 
             </div>
-          </div>
-        </div>
+          </b-col>    
+        </b-row>
       </div>
     </div>
 
-    <div class="bar-bottom">Todos los derechos reservados 2021</div>
+    <div class="bar-bottom">Todos los derechos reservados 2021.</div>
   </div>
 </template>
 <style lang="scss">
