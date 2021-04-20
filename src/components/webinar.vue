@@ -42,11 +42,11 @@
                   class="my-3"
                 ></b-img>
                 <h4 class="p-2">
-                  Webinar gratis: Salario Emocional
+                  Webinar gratis: Pilares de Scrum
                 </h4>
               </div>
               <div class="my-3">
-                En este webinar se explicaran dos técnicas para pasar de la visión del saliario económico al salarios emocial y su importancia para mantener un buen clima laboral. <br><br>
+                En este webinar conocerás los Fundamentos de Scrum, de dónde nacen y por qué se han vuelto el framework de trabajo con más demnada en el ámbito laboral. <br><br>
               </div>
               <b-button block variant= "primary">Inscríbete aquí</b-button>
             </b-card-text>

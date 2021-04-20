@@ -28,7 +28,7 @@
             <h5>Síguenos:</h5>
             <div class="d-block">
 
-              <a href="https://www.facebook.com/Learning-scrum-111047601084041/?ref=page_internal" 
+              <a href="https://www.linkedin.com/in/learning-scrum-98202620b/" 
               class="mr-2"
               target="_blank" 
               rel="noopener noreferrer">
@@ -58,7 +58,7 @@
                 width="30" />
               </a>
 
-              <a href="https://www.facebook.com/Learning-scrum-111047601084041/?ref=page_internal" 
+              <a href="https://twitter.com/ScrumLearning" 
               class="mr-2"
               target="_blank" 
               rel="noopener noreferrer">
@@ -68,7 +68,7 @@
                 width="30" />
               </a>
 
-               <a href="https://www.facebook.com/Learning-scrum-111047601084041/?ref=page_internal" 
+               <a href="https://www.youtube.com/channel/UCPKjnXSWI1qR-af967U6inw/featured" 
               class="mr-2"
               target="_blank" 
               rel="noopener noreferrer">
