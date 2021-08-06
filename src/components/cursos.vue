@@ -15,13 +15,20 @@
                   rounded="circle"
                   alt="lssm"
                   width="100"
-                  class="my-3"
+                  class="m-2"
+                ></b-img>
+                <b-img
+                  src="../assets/cursos/aibes-sm.png"
+                  rounded="circle"
+                  alt="lssm"
+                  width="100"
+                  class="m-2"
                 ></b-img>
                 <h4 class="p-2">Scrum Master</h4>
               </div>
               <div>
                 En este curso aprenderás de una manera práctica los contenidos, los roles, eventos y artefactos propios de Scrum. Entrenamiento con opción a presentar exámen de certificación. <small>Duración: 16h</small><br>
-                  <small> <s>Valor:300$</s></small><br>
+                  <small> <s>Valor: 600$</s></small><br>
                 <b>Oferta: 250$</b> <br><br>
               </div>
               <b-button class="mt-3" block variant= "primary">Inscríbete aquí</b-button>
@@ -38,7 +45,14 @@
                   rounded="circle"
                   alt="lsfs"
                   width="100"
-                  class="my-3"
+                  class="m-2"
+                ></b-img>
+                <b-img
+                  src="../assets/cursos/aibes-fs.png"
+                  rounded="circle"
+                  alt="lssm"
+                  width="100"
+                  class="m-2"
                 ></b-img>
                 <h4 class="p-2">Fundamentos de Scrum</h4>
               </div>
@@ -46,7 +60,7 @@
                 Este curso está orientado a todo aquel que desee obtener los conocimientos
                 básicos para trabajar en organizaciones con culturas ágiles.
                 Entrenamiento con opción a presentar exámen de certificación.<small> Duración: 4h</small><br>
-                <small> <s>Valor:$</s></small><br>
+                <small> <s>Valor: 75$</s></small><br>
                 <b>Oferta: 30$</b>
               </div>
               <b-button class="mt-3" block variant= "primary">Inscríbete aquí</b-button>
@@ -63,7 +77,14 @@
                   rounded="circle"
                   alt="lsac"
                   width="100"
-                  class="my-3"
+                  class="m-2"
+                ></b-img>
+                <b-img
+                  src="../assets/cursos/aibes-cs.png"
+                  rounded="circle"
+                  alt="lssm"
+                  width="100"
+                  class="m-2"
                 ></b-img>
                 <h4 class="p-2">Official Agile Coach</h4>
               </div>
@@ -72,8 +93,8 @@
                 para convertirte en un Experto Agile con liderazgo y
                 conocimiento para ejecutar los procesos Lean-Agile en cualquier
                 organización. <small>Duración: 180h</small><br>
-                <small> <s>Valor:300$</s></small><br>
-                <b>Oferta: 1.500$</b>
+                <small> <s>Valor:3,750$</s></small><br>
+                <b>Oferta: 1,500$</b>
               </div>
               <b-button class="mt-3" block variant= "primary">Inscríbete aquí</b-button>
             </b-card-text>
